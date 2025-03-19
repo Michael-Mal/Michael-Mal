@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michael-Mal
 - 👀 I’m interested in 🧑‍💻 programming 🧑‍💻 - 🎮 games 🎮 - 🎵 music 🎵 - and 🎢 coasters 🎢
-- 🌱 I’m currently learning Github and Java as part of my CS degree
+- 🌱 I’m currently learning Github and Java as part of my CS degree at QUT
 - 💞️ I’m looking to make new friends
 - 📫 How to reach me: mjmallett23@outlook.com
 - 😄 Pronouns: he/they
