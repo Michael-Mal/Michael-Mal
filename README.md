@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Github and Java as part of my CS degree at QUT
 - 💞️ I’m looking to make new friends
 - 📫 How to reach me: mjmallett23@outlook.com
-- 😄 Pronouns: he/they
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: I lived in China for 3 years!
 
 <!---
